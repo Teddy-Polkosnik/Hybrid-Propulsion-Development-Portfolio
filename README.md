@@ -5,4 +5,7 @@ Leading the Developing NYU's First Ever Hybrid Propulsion Rocket. This is meant 
 - Design Reviews
 - CAD Models
 - Drawings
+- Analysis Sheets
+- Templates
+- Quick Calculators
 - Reference Documentation
